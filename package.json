@@ -6,6 +6,7 @@
         "type": "git",
         "url": "https://github.com/cornflourblue/mean-stack-registration-login-example.git"
     },
+    "scripts": "npm install && node server.js",
     "dependencies": {
         "bcryptjs": "^2.1.0",
         "body-parser": "^1.13.2",
