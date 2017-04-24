@@ -1,5 +1,5 @@
 ﻿{
-    "connectionString": "mongodb://<vasia>:<1234>@ds117251.mlab.com:17251/firstexpirience",
+    "connectionString": "mongodb://vasia:1234@ds117251.mlab.com:17251/firstexpirience",
     "apiUrl": "http://localhost:3000/api",
     "secret": "mean-stack-registration-login-example"
 }
