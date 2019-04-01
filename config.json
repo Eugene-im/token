@@ -1,5 +1,5 @@
 ﻿{
-    "connectionString": "mongodb://no_smoking:08101992gG@ds117251.mlab.com:17251/firstexpirience",
+    "connectionString": "mongodb://login:pass@ds117251.mlab.com:17251/firstexpirience",
     "apiUrl": "http://localhost:3000/api",
     "secret": "mean-stack-registration-login-example"
 }
